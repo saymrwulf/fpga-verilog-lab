@@ -2,3 +2,4 @@
 2014-01-18T07:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2014-01-18T02:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2014-01-18T02:06:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
+2014-01-18T19:58:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
