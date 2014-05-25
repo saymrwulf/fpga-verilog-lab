@@ -12,3 +12,4 @@
 2014-04-24T04:14:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
 2014-04-24T06:18:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2014-05-05T06:42:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
+2014-05-25T20:49:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
