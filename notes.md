@@ -20,3 +20,4 @@
 2014-06-20T18:49:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2014-06-20T04:38:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2014-06-29T18:19:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
+2014-08-05T20:57:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
