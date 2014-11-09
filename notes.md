@@ -28,3 +28,4 @@
 2014-09-28T01:19:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2014-09-28T06:23:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2014-11-09T00:56:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
+2014-11-09T23:39:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
