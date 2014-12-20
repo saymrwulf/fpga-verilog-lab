@@ -35,3 +35,4 @@
 2014-12-19T23:10:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2014-12-20T20:25:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2014-12-20T02:21:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
+2014-12-20T17:30:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
