@@ -39,3 +39,4 @@
 2014-12-20T01:27:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
 2015-02-08T05:16:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2015-02-08T03:08:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
+2015-02-08T05:50:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
