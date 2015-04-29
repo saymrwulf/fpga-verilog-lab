@@ -42,3 +42,4 @@
 2015-02-08T05:50:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2015-02-13T22:48:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2015-02-13T20:29:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
+2015-04-29T04:56:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
