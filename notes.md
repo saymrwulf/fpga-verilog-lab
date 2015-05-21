@@ -45,3 +45,4 @@
 2015-04-29T04:56:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2015-04-29T06:23:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2015-04-29T17:59:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
+2015-05-21T05:42:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
