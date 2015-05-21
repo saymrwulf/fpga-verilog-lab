@@ -47,3 +47,4 @@
 2015-04-29T17:59:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2015-05-21T05:42:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2015-05-21T07:54:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
+2015-05-21T06:54:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
