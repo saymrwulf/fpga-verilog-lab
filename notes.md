@@ -49,3 +49,4 @@
 2015-05-21T07:54:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2015-05-21T06:54:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2015-05-21T04:09:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
+2015-05-27T00:15:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
