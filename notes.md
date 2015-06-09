@@ -52,3 +52,4 @@
 2015-05-27T00:15:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2015-05-27T04:40:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
 2015-06-09T01:51:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
+2015-06-09T04:27:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
