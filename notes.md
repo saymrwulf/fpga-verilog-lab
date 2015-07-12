@@ -57,3 +57,4 @@
 2015-06-09T21:04:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2015-06-10T05:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2015-06-10T06:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
+2015-07-13T00:35:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
