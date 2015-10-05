@@ -68,3 +68,4 @@
 2015-09-17T04:55:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2015-09-25T03:24:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2015-10-05T21:51:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
+2015-10-05T22:19:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
