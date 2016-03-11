@@ -78,3 +78,4 @@
 2016-02-01T23:31:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2016-02-05T21:51:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2016-02-05T22:48:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
+2016-03-11T23:31:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
