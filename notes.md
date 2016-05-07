@@ -84,3 +84,4 @@
 2016-04-07T08:42:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2016-04-07T23:29:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2016-04-07T22:32:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
+2016-05-07T03:20:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
