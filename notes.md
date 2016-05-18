@@ -86,3 +86,4 @@
 2016-04-07T22:32:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2016-05-07T03:20:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2016-05-07T06:37:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
+2016-05-18T18:36:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
