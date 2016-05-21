@@ -88,3 +88,4 @@
 2016-05-07T06:37:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2016-05-18T18:36:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2016-05-18T07:08:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
+2016-05-22T01:24:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
