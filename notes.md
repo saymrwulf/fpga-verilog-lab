@@ -93,3 +93,4 @@
 2016-05-22T02:04:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
 2016-06-28T03:35:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2016-06-28T03:00:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
+2016-06-28T08:31:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
