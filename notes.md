@@ -91,3 +91,4 @@
 2016-05-22T01:24:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2016-05-22T18:08:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2016-05-22T02:04:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
+2016-06-28T03:35:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
