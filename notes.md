@@ -98,3 +98,4 @@
 2016-07-26T06:38:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2016-08-03T19:37:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2016-08-03T01:42:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
+2016-08-03T17:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
