@@ -100,3 +100,4 @@
 2016-08-03T01:42:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2016-08-03T17:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2016-08-09T07:32:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
+2016-08-09T00:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
