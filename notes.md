@@ -102,3 +102,4 @@
 2016-08-09T07:32:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2016-08-09T00:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2016-08-09T08:28:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
+2016-08-09T08:14:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
