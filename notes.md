@@ -104,3 +104,4 @@
 2016-08-09T08:28:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2016-08-09T08:14:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2016-08-26T07:04:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
+2016-08-26T23:51:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
