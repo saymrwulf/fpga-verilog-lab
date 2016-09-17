@@ -107,3 +107,4 @@
 2016-08-26T23:51:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2016-09-01T08:05:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2016-09-14T20:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
+2016-09-17T02:07:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
