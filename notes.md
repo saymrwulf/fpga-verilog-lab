@@ -109,3 +109,4 @@
 2016-09-14T20:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2016-09-17T02:07:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2016-09-17T08:51:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
+2016-09-17T05:52:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
