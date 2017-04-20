@@ -128,3 +128,4 @@
 2017-03-29T18:08:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2017-03-29T07:10:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2017-03-29T03:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
+2017-04-20T07:28:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
