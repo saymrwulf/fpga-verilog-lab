@@ -134,3 +134,4 @@
 2017-05-23T03:20:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2017-05-30T21:07:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2017-05-30T18:28:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
+2017-07-31T23:49:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
