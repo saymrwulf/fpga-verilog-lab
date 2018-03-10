@@ -149,3 +149,4 @@
 2017-11-27T21:41:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
 2018-01-31T17:27:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2018-03-06T03:47:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
+2018-03-10T19:49:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
