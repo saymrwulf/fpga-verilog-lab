@@ -152,3 +152,4 @@
 2018-03-10T19:49:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2018-03-21T06:57:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2018-03-21T19:44:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
+2018-03-28T06:56:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
