@@ -155,3 +155,4 @@
 2018-03-28T06:56:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2018-03-28T07:20:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2018-03-31T23:02:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
+2018-03-31T20:59:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
