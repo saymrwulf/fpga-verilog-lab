@@ -159,3 +159,4 @@
 2018-03-31T01:07:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2018-03-31T08:23:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2018-05-26T19:44:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
+2018-05-26T18:36:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
