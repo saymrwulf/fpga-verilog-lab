@@ -162,3 +162,4 @@
 2018-05-26T18:36:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2018-06-14T19:06:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2018-06-14T18:26:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
+2018-06-18T22:43:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
