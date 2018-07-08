@@ -166,3 +166,4 @@
 2018-06-18T00:30:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2018-06-18T02:17:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2018-07-08T02:06:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
+2018-07-08T08:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
