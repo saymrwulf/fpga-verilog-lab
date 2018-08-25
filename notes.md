@@ -173,3 +173,4 @@
 2018-07-14T06:21:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2018-08-25T18:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2018-08-25T05:08:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
+2018-08-25T06:19:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
