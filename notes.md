@@ -175,3 +175,4 @@
 2018-08-25T05:08:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
 2018-08-25T06:19:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2018-08-25T08:42:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
+2018-09-10T01:07:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
