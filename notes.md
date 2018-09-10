@@ -176,3 +176,4 @@
 2018-08-25T06:19:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2018-08-25T08:42:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2018-09-10T01:07:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
+2018-09-10T03:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
