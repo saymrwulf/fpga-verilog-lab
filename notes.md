@@ -179,3 +179,4 @@
 2018-09-10T03:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2018-09-16T08:19:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2018-09-16T00:16:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
+2018-09-16T23:46:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
