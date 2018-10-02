@@ -185,3 +185,4 @@
 2018-09-19T23:05:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2018-09-24T04:42:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2018-10-02T07:37:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
+2018-10-02T07:12:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
