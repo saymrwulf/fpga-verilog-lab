@@ -196,3 +196,4 @@
 2019-05-26T23:27:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2019-07-13T22:09:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2019-07-13T18:26:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
+2019-07-13T23:22:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
