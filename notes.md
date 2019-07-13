@@ -194,3 +194,4 @@
 2019-04-03T21:41:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2019-04-03T02:50:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2019-05-26T23:27:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
+2019-07-13T22:09:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
