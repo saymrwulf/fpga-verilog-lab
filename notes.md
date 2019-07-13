@@ -195,3 +195,4 @@
 2019-04-03T02:50:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2019-05-26T23:27:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2019-07-13T22:09:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
+2019-07-13T18:26:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
