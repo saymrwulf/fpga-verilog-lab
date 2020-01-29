@@ -207,3 +207,4 @@
 2020-01-26T21:51:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2020-01-26T19:56:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2020-01-29T04:09:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
+2020-01-29T05:28:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
