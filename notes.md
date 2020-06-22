@@ -212,3 +212,4 @@
 2020-05-04T06:35:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
 2020-05-04T01:58:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2020-06-22T17:11:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
+2020-06-22T08:20:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
