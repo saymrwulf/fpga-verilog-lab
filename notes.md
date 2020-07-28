@@ -218,3 +218,4 @@
 2020-07-25T06:40:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2020-07-25T01:24:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2020-07-25T21:50:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
+2020-07-28T22:28:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
