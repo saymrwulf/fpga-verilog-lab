@@ -223,3 +223,4 @@
 2020-07-28T02:48:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2020-08-27T04:09:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2020-08-27T20:44:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
+2020-08-27T08:46:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
