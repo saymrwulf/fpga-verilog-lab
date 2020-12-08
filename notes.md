@@ -233,3 +233,4 @@
 2020-11-30T01:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2020-11-30T22:38:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2020-12-08T08:46:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
+2020-12-08T22:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
