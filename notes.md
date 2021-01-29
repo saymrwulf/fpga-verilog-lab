@@ -238,3 +238,4 @@
 2020-12-08T08:13:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2021-01-23T01:37:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2021-01-29T21:31:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
+2021-01-29T18:45:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
