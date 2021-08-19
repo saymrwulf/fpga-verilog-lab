@@ -249,3 +249,4 @@
 2021-07-28T18:45:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2021-07-28T00:28:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2021-08-19T05:45:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
+2021-08-19T17:57:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
