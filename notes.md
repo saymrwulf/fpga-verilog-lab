@@ -254,3 +254,4 @@
 2021-09-11T02:01:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2021-09-19T00:44:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2021-09-19T18:59:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
+2021-09-19T20:10:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
