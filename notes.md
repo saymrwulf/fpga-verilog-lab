@@ -258,3 +258,4 @@
 2021-09-19T07:19:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2021-10-21T02:47:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2021-10-21T23:19:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
+2021-11-25T17:45:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
