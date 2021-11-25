@@ -260,3 +260,4 @@
 2021-10-21T23:19:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2021-11-25T17:45:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2021-11-25T01:38:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
+2021-11-25T08:12:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
