@@ -262,3 +262,4 @@
 2021-11-25T01:38:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
 2021-11-25T08:12:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2021-11-25T01:04:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
+2021-12-11T07:48:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
