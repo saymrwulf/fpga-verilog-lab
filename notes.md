@@ -269,3 +269,4 @@
 2022-02-28T18:22:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
 2022-03-21T06:26:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2022-03-21T03:47:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
+2022-03-21T04:04:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
