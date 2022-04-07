@@ -277,3 +277,4 @@
 2022-03-27T19:53:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2022-04-07T00:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2022-04-07T19:13:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
+2022-04-07T18:29:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
