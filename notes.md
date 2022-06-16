@@ -279,3 +279,4 @@
 2022-04-07T19:13:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2022-04-07T18:29:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
 2022-06-16T05:28:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
+2022-06-16T02:41:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
