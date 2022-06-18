@@ -283,3 +283,4 @@
 2022-06-16T08:33:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2022-06-16T07:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2022-06-18T18:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
+2022-06-18T20:58:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
