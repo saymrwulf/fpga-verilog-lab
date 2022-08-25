@@ -291,3 +291,4 @@
 2022-08-24T06:52:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2022-08-24T06:07:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2022-08-24T03:50:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
+2022-08-25T21:30:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
