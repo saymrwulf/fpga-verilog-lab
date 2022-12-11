@@ -307,3 +307,4 @@
 2022-10-20T19:14:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2022-10-21T04:05:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2022-10-21T08:42:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
+2022-12-11T19:30:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
