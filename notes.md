@@ -308,3 +308,4 @@
 2022-10-21T04:05:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2022-10-21T08:42:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2022-12-11T19:30:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
+2022-12-11T01:19:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
