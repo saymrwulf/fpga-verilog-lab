@@ -313,3 +313,4 @@
 2023-04-23T01:20:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2023-04-23T22:11:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2023-04-23T00:21:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
+2023-05-23T00:25:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
