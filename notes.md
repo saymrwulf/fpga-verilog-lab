@@ -320,3 +320,4 @@
 2023-07-09T07:41:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2023-07-09T20:09:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2023-07-16T01:09:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
+2023-07-29T07:31:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
