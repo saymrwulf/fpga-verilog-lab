@@ -322,3 +322,4 @@
 2023-07-16T01:09:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2023-07-29T07:31:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2023-07-29T22:45:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
+2023-08-03T03:52:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
