@@ -328,3 +328,4 @@
 2023-09-30T06:11:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2023-10-23T08:10:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2023-10-23T00:21:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
+2023-11-11T22:01:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
