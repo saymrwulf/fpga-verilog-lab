@@ -331,3 +331,4 @@
 2023-11-11T22:01:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2023-11-11T02:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2023-11-22T05:43:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
+2023-11-22T22:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
