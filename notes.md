@@ -343,3 +343,4 @@
 2024-02-03T04:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2024-03-17T23:09:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2024-04-01T00:03:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
+2024-04-08T06:55:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
