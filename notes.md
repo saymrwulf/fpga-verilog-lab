@@ -348,3 +348,4 @@
 2024-04-18T01:59:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
 2024-05-09T23:16:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2024-05-09T06:04:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
+2024-05-09T23:56:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
