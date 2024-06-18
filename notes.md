@@ -351,3 +351,4 @@
 2024-05-09T23:56:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
 2024-05-09T21:14:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2024-05-30T03:40:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
+2024-06-18T18:10:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
