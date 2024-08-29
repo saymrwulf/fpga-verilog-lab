@@ -363,3 +363,4 @@
 2024-07-03T00:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (fpga-verilog-lab)
 2024-07-03T17:37:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
 2024-08-29T02:14:00 - Quick fix, referencing a known issue from the official repo (fpga-verilog-lab)
+2024-08-29T21:06:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (fpga-verilog-lab)
