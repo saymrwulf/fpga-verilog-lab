@@ -367,3 +367,4 @@
 2024-08-29T08:28:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2024-09-11T07:39:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
 2024-09-11T07:13:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
+2024-09-11T22:56:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
