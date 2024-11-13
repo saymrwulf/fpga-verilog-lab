@@ -369,3 +369,4 @@
 2024-09-11T07:13:00 - Late-night bugfix on financial RL environment (fpga-verilog-lab)
 2024-09-11T22:56:00 - Implementing approach from a new paper read last night (fpga-verilog-lab)
 2024-10-20T01:42:00 - Refactor for clarity, might break a few tests though (fpga-verilog-lab)
+2024-11-13T05:34:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
