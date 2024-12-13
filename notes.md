@@ -374,3 +374,4 @@
 2024-11-13T17:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2024-11-13T00:43:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
 2024-11-26T21:03:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (fpga-verilog-lab)
+2024-12-13T19:38:00 - Minor doc updates: linking to article on quantization (fpga-verilog-lab)
